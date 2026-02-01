@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://yt2pod.local/feed.xml" rel="self" type="application/rss+xml" />
+    <title>WITCHER LOGIC (Логика Ведьмака)</title>
+    <itunes:title>WITCHER LOGIC (Логика Ведьмака)</itunes:title>
+    <link>https://www.youtube.com/playlist?list=PLGzpouuZNBOGQwIUnh9EUKmfDm_7K_MVg</link>
+    <language>en-us</language>
+    <itunes:author>Странное местечко</itunes:author>
+    <description>Добро пожаловать в мир &apos;Логики Ведьмака&apos; (Witcher Logic) — серии комедийных скетчей от Viva La Dirt League в профессиональной русской озвучке от канала &apos;Странное местечко&apos; (Владислав Думов). Этот плейлист погружает вас в абсурдные и уморительные ситуации, знакомые каждому фанату игры The Witcher 3: Wild Hunt. Узнайте, почему Геральт всегда перегружен, зачем ему столько зелий, как работает ведьмачье чутье на самом деле и почему партия в Гвинт важнее спасения мира. Смешной, качественный и душевный дубляж, который заставит вас взглянуть на приключения Геральта из Ривии по-новому.</description>
+    <itunes:summary>Добро пожаловать в мир &apos;Логики Ведьмака&apos; (Witcher Logic) — серии комедийных скетчей от Viva La Dirt League в профессиональной русской озвучке от канала &apos;Странное местечко&apos; (Владислав Думов). Этот плейлист погружает вас в абсурдные и уморительные ситуации, знакомые каждому фанату игры The Witcher 3: Wild Hunt. Узнайте, почему Геральт всегда перегружен, зачем ему столько зелий, как работает ведьмачье чутье на самом деле и почему партия в Гвинт важнее спасения мира. Смешной, качественный и душевный дубляж, который заставит вас взглянуть на приключения Геральта из Ривии по-новому.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Странное местечко</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>ЛОГИКА ВЕДЬМАКА - Тизер сериала на Русском</title>
+      <itunes:title>ЛОГИКА ВЕДЬМАКА - Тизер сериала на Русском</itunes:title>
+      <description><![CDATA[Тизер сериала 'Логика Ведьмака' в русской озвучке от 'Странное местечко'.]]></description>
+      <content:encoded><![CDATA[Тизер сериала 'Логика Ведьмака' в русской озвучке от 'Странное местечко'.]]></content:encoded>
+      <pubDate>2022-04-01</pubDate>
+      <guid isPermaLink="false">JU_fXtqktZY</guid>
+      <enclosure url="https://www.youtube.com/watch?v=JU_fXtqktZY" length="0" type="video/mp4" />
+      <itunes:duration>0:52</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>БЕСПОЛЕЗНОЕ ВЕДЬМАЧЬЕ ЧУТЬЁ - Witcher Logic на Русском</title>
+      <itunes:title>БЕСПОЛЕЗНОЕ ВЕДЬМАЧЬЕ ЧУТЬЁ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Геральт использует свое ведьмачье чутье, чтобы найти следы, которые и так видны невооруженным глазом.]]></description>
+      <content:encoded><![CDATA[Геральт использует свое ведьмачье чутье, чтобы найти следы, которые и так видны невооруженным глазом.]]></content:encoded>
+      <pubDate>2022-04-22</pubDate>
+      <guid isPermaLink="false">ZMtr1bGCEXY</guid>
+      <enclosure url="https://www.youtube.com/watch?v=ZMtr1bGCEXY" length="0" type="video/mp4" />
+      <itunes:duration>4:43</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/ZMtr1bGCEXY/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ЖАДНЫЙ ВЕДЬМАК ПОЛУЧАЕТ НАГРАДУ - Witcher Logic на Русском</title>
+      <itunes:title>ЖАДНЫЙ ВЕДЬМАК ПОЛУЧАЕТ НАГРАДУ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Ведьмак торгуется за награду с бедным крестьянином, забирая последнее.]]></description>
+      <content:encoded><![CDATA[Ведьмак торгуется за награду с бедным крестьянином, забирая последнее.]]></content:encoded>
+      <pubDate>2022-05-13</pubDate>
+      <guid isPermaLink="false">TOjYISfDIq8</guid>
+      <enclosure url="https://www.youtube.com/watch?v=TOjYISfDIq8" length="0" type="video/mp4" />
+      <itunes:duration>2:24</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/TOjYISfDIq8/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ПРОБЛЕМЫ ПОХОТЛИВЫХ ВЕДЬМАКОВ - Witcher Logic на Русском</title>
+      <itunes:title>ПРОБЛЕМЫ ПОХОТЛИВЫХ ВЕДЬМАКОВ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Геральт и его романтические похождения, которые иногда выходят боком.]]></description>
+      <content:encoded><![CDATA[Геральт и его романтические похождения, которые иногда выходят боком.]]></content:encoded>
+      <pubDate>2022-05-06</pubDate>
+      <guid isPermaLink="false">vqpZ24LiRHs</guid>
+      <enclosure url="https://www.youtube.com/watch?v=vqpZ24LiRHs" length="0" type="video/mp4" />
+      <itunes:duration>3:48</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/vqpZ24LiRHs/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ПЕРЕДОЗ ЗЕЛЬЯМИ В ВЕДЬМАКЕ - Witcher Logic на Русском</title>
+      <itunes:title>ПЕРЕДОЗ ЗЕЛЬЯМИ В ВЕДЬМАКЕ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Геральт выпивает слишком много эликсиров перед боем и сталкивается с последствиями интоксикации.]]></description>
+      <content:encoded><![CDATA[Геральт выпивает слишком много эликсиров перед боем и сталкивается с последствиями интоксикации.]]></content:encoded>
+      <pubDate>2022-04-29</pubDate>
+      <guid isPermaLink="false">155tqpce19I</guid>
+      <enclosure url="https://www.youtube.com/watch?v=155tqpce19I" length="0" type="video/mp4" />
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/155tqpce19I/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ФИЗИЧЕСКАЯ ФОРМА ВЕДЬМАКА - Witcher Logic на Русском</title>
+      <itunes:title>ФИЗИЧЕСКАЯ ФОРМА ВЕДЬМАКА - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Ведьмак поддерживает свою физическую форму, но иногда игровые условности выглядят странно.]]></description>
+      <content:encoded><![CDATA[Ведьмак поддерживает свою физическую форму, но иногда игровые условности выглядят странно.]]></content:encoded>
+      <pubDate>2025-03-07</pubDate>
+      <guid isPermaLink="false">g5N-i5rb9l</guid>
+      <enclosure url="https://www.youtube.com/watch?v=g5N-i5rb9l" length="0" type="video/mp4" />
+      <itunes:duration>4:21</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/g5N-i5rb9l/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Когда ВЕДЬМАК ПОСТОЯННО ОТВЛЕКАЕТСЯ</title>
+      <itunes:title>Когда ВЕДЬМАК ПОСТОЯННО ОТВЛЕКАЕТСЯ</itunes:title>
+      <description><![CDATA[Геральт постоянно отвлекается на побочные квесты, игнорируя основную цель спасения Цири.]]></description>
+      <content:encoded><![CDATA[Геральт постоянно отвлекается на побочные квесты, игнорируя основную цель спасения Цири.]]></content:encoded>
+      <pubDate>2025-03-14</pubDate>
+      <guid isPermaLink="false">WD7eZ4IJsNg</guid>
+      <enclosure url="https://www.youtube.com/watch?v=WD7eZ4IJsNg" length="0" type="video/mp4" />
+      <itunes:duration>3:20</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/WD7eZ4IJsNg/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>НЕПОДХОДЯЩЕЕ ВРЕМЯ ДЛЯ ГВИНТА</title>
+      <itunes:title>НЕПОДХОДЯЩЕЕ ВРЕМЯ ДЛЯ ГВИНТА</itunes:title>
+      <description><![CDATA[Геральт предлагает сыграть в Гвинт в самый неподходящий момент, когда вокруг творится хаос.]]></description>
+      <content:encoded><![CDATA[Геральт предлагает сыграть в Гвинт в самый неподходящий момент, когда вокруг творится хаос.]]></content:encoded>
+      <pubDate>2025-03-28</pubDate>
+      <guid isPermaLink="false">R0EIoynTEcc</guid>
+      <enclosure url="https://www.youtube.com/watch?v=R0EIoynTEcc" length="0" type="video/mp4" />
+      <itunes:duration>3:22</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/R0EIoynTEcc/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

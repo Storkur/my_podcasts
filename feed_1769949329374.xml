@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://raw.githubusercontent.com/user/repo/main/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Modern CSS</title>
+    <itunes:title>Modern CSS</itunes:title>
+    <link>https://www.youtube.com/playlist?list=PLGzpouuZNBOGQwIUnh9EUKmfDm_7K_MVg</link>
+    <language>en-us</language>
+    <itunes:author>Kevin Powell</itunes:author>
+    <description>Looking at modern CSS solutions, features, and ways of working.</description>
+    <itunes:summary>Looking at modern CSS solutions, features, and ways of working.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Kevin Powell</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+    <itunes:category text="Education" />
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>Modern CSS Solutions to Old Problems</title>
+      <itunes:title>Modern CSS Solutions to Old Problems</itunes:title>
+      <description><![CDATA[For a long time, we've had to rely on hacks to get things done in CSS. But modern CSS has solutions to many of those old problems.]]></description>
+      <content:encoded><![CDATA[For a long time, we've had to rely on hacks to get things done in CSS. But modern CSS has solutions to many of those old problems.]]></content:encoded>
+      <pubDate>2021-02-18</pubDate>
+      <guid isPermaLink="false">JU_fXtqktZY</guid>
+      <enclosure url="https://www.youtube.com/watch?v=JU_fXtqktZY" length="1024" type="video/mp4" />
+      <itunes:duration>17:34</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The modern way to handle line-height</title>
+      <itunes:title>The modern way to handle line-height</itunes:title>
+      <description><![CDATA[Line-height has always been a bit of a pain, but with modern CSS, we have better ways to handle it.]]></description>
+      <content:encoded><![CDATA[Line-height has always been a bit of a pain, but with modern CSS, we have better ways to handle it.]]></content:encoded>
+      <pubDate>2021-03-04</pubDate>
+      <guid isPermaLink="false">P9pYp_N9Bks</guid>
+      <enclosure url="https://www.youtube.com/watch?v=P9pYp_N9Bks" length="1024" type="video/mp4" />
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/P9pYp_N9Bks/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CSS Container Queries are finally here!</title>
+      <itunes:title>CSS Container Queries are finally here!</itunes:title>
+      <description><![CDATA[Container queries have been the most requested feature in CSS for years, and they are finally starting to land in browsers.]]></description>
+      <content:encoded><![CDATA[Container queries have been the most requested feature in CSS for years, and they are finally starting to land in browsers.]]></content:encoded>
+      <pubDate>2021-04-12</pubDate>
+      <guid isPermaLink="false">n7X_Y902D_c</guid>
+      <enclosure url="https://www.youtube.com/watch?v=n7X_Y902D_c" length="1024" type="video/mp4" />
+      <itunes:duration>15:45</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/n7X_Y902D_c/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A new era of CSS selectors is here</title>
+      <itunes:title>A new era of CSS selectors is here</itunes:title>
+      <description><![CDATA[New pseudo-classes like :is(), :where(), and :has() are changing the way we write CSS.]]></description>
+      <content:encoded><![CDATA[New pseudo-classes like :is(), :where(), and :has() are changing the way we write CSS.]]></content:encoded>
+      <pubDate>2021-05-20</pubDate>
+      <guid isPermaLink="false">3elGSZ_T9tA</guid>
+      <enclosure url="https://www.youtube.com/watch?v=3elGSZ_T9tA" length="1024" type="video/mp4" />
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/3elGSZ_T9tA/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The gap property is better than margin</title>
+      <itunes:title>The gap property is better than margin</itunes:title>
+      <description><![CDATA[The gap property isn't just for Grid anymore; it works in Flexbox too, and it's much better than using margins.]]></description>
+      <content:encoded><![CDATA[The gap property isn't just for Grid anymore; it works in Flexbox too, and it's much better than using margins.]]></content:encoded>
+      <pubDate>2021-06-15</pubDate>
+      <guid isPermaLink="false">M-SSTm8u18Y</guid>
+      <enclosure url="https://www.youtube.com/watch?v=M-SSTm8u18Y" length="1024" type="video/mp4" />
+      <itunes:duration>09:55</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/M-SSTm8u18Y/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Logical Properties: The future of CSS layout</title>
+      <itunes:title>Logical Properties: The future of CSS layout</itunes:title>
+      <description><![CDATA[Moving away from top, bottom, left, and right towards block and inline is a huge shift in the CSS mindset.]]></description>
+      <content:encoded><![CDATA[Moving away from top, bottom, left, and right towards block and inline is a huge shift in the CSS mindset.]]></content:encoded>
+      <pubDate>2021-07-08</pubDate>
+      <guid isPermaLink="false">sK0RS6V98d8</guid>
+      <enclosure url="https://www.youtube.com/watch?v=sK0RS6V98d8" length="1024" type="video/mp4" />
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/sK0RS6V98d8/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CSS subgrid is here!</title>
+      <itunes:title>CSS subgrid is here!</itunes:title>
+      <description><![CDATA[Subgrid allows children of a grid item to participate in the parent's grid layout, solving long-standing layout issues.]]></description>
+      <content:encoded><![CDATA[Subgrid allows children of a grid item to participate in the parent's grid layout, solving long-standing layout issues.]]></content:encoded>
+      <pubDate>2021-08-25</pubDate>
+      <guid isPermaLink="false">L_R_wP-Fp88</guid>
+      <enclosure url="https://www.youtube.com/watch?v=L_R_wP-Fp88" length="1024" type="video/mp4" />
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/L_R_wP-Fp88/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>aspect-ratio is finally here!</title>
+      <itunes:title>aspect-ratio is finally here!</itunes:title>
+      <description><![CDATA[The aspect-ratio property makes it incredibly easy to maintain the shape of elements without using the padding-bottom hack.]]></description>
+      <content:encoded><![CDATA[The aspect-ratio property makes it incredibly easy to maintain the shape of elements without using the padding-bottom hack.]]></content:encoded>
+      <pubDate>2021-09-30</pubDate>
+      <guid isPermaLink="false">pOOZXm3-z0Y</guid>
+      <enclosure url="https://www.youtube.com/watch?v=pOOZXm3-z0Y" length="1024" type="video/mp4" />
+      <itunes:duration>08:15</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/pOOZXm3-z0Y/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CSS color-mix() is amazing!</title>
+      <itunes:title>CSS color-mix() is amazing!</itunes:title>
+      <description><![CDATA[Being able to mix colors directly in CSS is a game-changer for design systems and themes.]]></description>
+      <content:encoded><![CDATA[Being able to mix colors directly in CSS is a game-changer for design systems and themes.]]></content:encoded>
+      <pubDate>2022-02-10</pubDate>
+      <guid isPermaLink="false">V1S-M7iGq6I</guid>
+      <enclosure url="https://www.youtube.com/watch?v=V1S-M7iGq6I" length="1024" type="video/mp4" />
+      <itunes:duration>10:50</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/V1S-M7iGq6I/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The one CSS combinator I use in every project</title>
+      <itunes:title>The one CSS combinator I use in every project</itunes:title>
+      <description><![CDATA[The adjacent sibling combinator (+) is incredibly powerful for adding spacing between elements.]]></description>
+      <content:encoded><![CDATA[The adjacent sibling combinator (+) is incredibly powerful for adding spacing between elements.]]></content:encoded>
+      <pubDate>2022-03-15</pubDate>
+      <guid isPermaLink="false">1v4qO4u6H-o</guid>
+      <enclosure url="https://www.youtube.com/watch?v=1v4qO4u6H-o" length="1024" type="video/mp4" />
+      <itunes:duration>07:45</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/1v4qO4u6H-o/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stop using fixed heights!</title>
+      <itunes:title>Stop using fixed heights!</itunes:title>
+      <description><![CDATA[Using fixed heights is a recipe for disaster in responsive design. Learn the modern alternatives.]]></description>
+      <content:encoded><![CDATA[Using fixed heights is a recipe for disaster in responsive design. Learn the modern alternatives.]]></content:encoded>
+      <pubDate>2022-04-20</pubDate>
+      <guid isPermaLink="false">vN7EAt_D9Xk</guid>
+      <enclosure url="https://www.youtube.com/watch?v=vN7EAt_D9Xk" length="1024" type="video/mp4" />
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/vN7EAt_D9Xk/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Why I use clamp() for everything</title>
+      <itunes:title>Why I use clamp() for everything</itunes:title>
+      <description><![CDATA[Clamp is the ultimate tool for responsive typography and fluid layouts.]]></description>
+      <content:encoded><![CDATA[Clamp is the ultimate tool for responsive typography and fluid layouts.]]></content:encoded>
+      <pubDate>2022-05-25</pubDate>
+      <guid isPermaLink="false">mY_C_O5R6X4</guid>
+      <enclosure url="https://www.youtube.com/watch?v=mY_C_O5R6X4" length="1024" type="video/mp4" />
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/mY_C_O5R6X4/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CSS Variables are more powerful than you think</title>
+      <itunes:title>CSS Variables are more powerful than you think</itunes:title>
+      <description><![CDATA[Custom properties are not just variables; they are dynamic hooks into your styles.]]></description>
+      <content:encoded><![CDATA[Custom properties are not just variables; they are dynamic hooks into your styles.]]></content:encoded>
+      <pubDate>2022-06-30</pubDate>
+      <guid isPermaLink="false">W8W_uY9o5pM</guid>
+      <enclosure url="https://www.youtube.com/watch?v=W8W_uY9o5pM" length="1024" type="video/mp4" />
+      <itunes:duration>16:20</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/W8W_uY9o5pM/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The CSS :has selector is finally here</title>
+      <itunes:title>The CSS :has selector is finally here</itunes:title>
+      <description><![CDATA[Often called the 'parent selector', :has() opens up possibilities we never thought possible in CSS.]]></description>
+      <content:encoded><![CDATA[Often called the 'parent selector', :has() opens up possibilities we never thought possible in CSS.]]></content:encoded>
+      <pubDate>2022-08-15</pubDate>
+      <guid isPermaLink="false">v2tJ3nzXhOc</guid>
+      <enclosure url="https://www.youtube.com/watch?v=v2tJ3nzXhOc" length="1024" type="video/mp4" />
+      <itunes:duration>18:40</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/v2tJ3nzXhOc/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Cascade Layers (@layer) are here!</title>
+      <itunes:title>Cascade Layers (@layer) are here!</itunes:title>
+      <description><![CDATA[Manage specificity and the cascade better than ever before with CSS layers.]]></description>
+      <content:encoded><![CDATA[Manage specificity and the cascade better than ever before with CSS layers.]]></content:encoded>
+      <pubDate>2022-10-12</pubDate>
+      <guid isPermaLink="false">R_L_P-78_Xw8</guid>
+      <enclosure url="https://www.youtube.com/watch?v=R_L_P-78_Xw8" length="1024" type="video/mp4" />
+      <itunes:duration>14:55</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/R_L_P-78_Xw8/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Aspect Ratio in CSS</title>
+      <itunes:title>Aspect Ratio in CSS</itunes:title>
+      <description><![CDATA[A deeper look into maintaining aspect ratios across different layout contexts.]]></description>
+      <content:encoded><![CDATA[A deeper look into maintaining aspect ratios across different layout contexts.]]></content:encoded>
+      <pubDate>2022-11-20</pubDate>
+      <guid isPermaLink="false">j_W-k_F8R68</guid>
+      <enclosure url="https://www.youtube.com/watch?v=j_W-k_F8R68" length="1024" type="video/mp4" />
+      <itunes:duration>09:30</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/j_W-k_F8R68/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Range syntax for media queries</title>
+      <itunes:title>Range syntax for media queries</itunes:title>
+      <description><![CDATA[Writing media queries just got a lot cleaner with the new range syntax.]]></description>
+      <content:encoded><![CDATA[Writing media queries just got a lot cleaner with the new range syntax.]]></content:encoded>
+      <pubDate>2023-01-05</pubDate>
+      <guid isPermaLink="false">XW_P_u9B_k8</guid>
+      <enclosure url="https://www.youtube.com/watch?v=XW_P_u9B_k8" length="1024" type="video/mp4" />
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/XW_P_u9B_k8/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Scroll-driven animations</title>
+      <itunes:title>Scroll-driven animations</itunes:title>
+      <description><![CDATA[Creating complex animations based on scroll position without any JavaScript.]]></description>
+      <content:encoded><![CDATA[Creating complex animations based on scroll position without any JavaScript.]]></content:encoded>
+      <pubDate>2023-03-14</pubDate>
+      <guid isPermaLink="false">Q1O9L6_G6sM</guid>
+      <enclosure url="https://www.youtube.com/watch?v=Q1O9L6_G6sM" length="1024" type="video/mp4" />
+      <itunes:duration>20:15</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/Q1O9L6_G6sM/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Centering in the modern era</title>
+      <itunes:title>Centering in the modern era</itunes:title>
+      <description><![CDATA[How to center things in CSS in 2023. Spoiler: It's easier than it used to be.]]></description>
+      <content:encoded><![CDATA[How to center things in CSS in 2023. Spoiler: It's easier than it used to be.]]></content:encoded>
+      <pubDate>2023-05-10</pubDate>
+      <guid isPermaLink="false">0-y_Q6lUjCc</guid>
+      <enclosure url="https://www.youtube.com/watch?v=0-y_Q6lUjCc" length="1024" type="video/mp4" />
+      <itunes:duration>08:40</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/0-y_Q6lUjCc/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Modern CSS Tooling</title>
+      <itunes:title>Modern CSS Tooling</itunes:title>
+      <description><![CDATA[A look at the tools that help us write and maintain modern CSS more effectively.]]></description>
+      <content:encoded><![CDATA[A look at the tools that help us write and maintain modern CSS more effectively.]]></content:encoded>
+      <pubDate>2023-07-22</pubDate>
+      <guid isPermaLink="false">V-L_9P-K8-U</guid>
+      <enclosure url="https://www.youtube.com/watch?v=V-L_9P-K8-U" length="1024" type="video/mp4" />
+      <itunes:duration>11:25</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/V-L_9P-K8-U/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

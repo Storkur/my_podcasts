@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://yt2pod.local/feed.xml" rel="self" type="application/rss+xml" />
+    <title>WITCHER LOGIC (Логика Ведьмака)</title>
+    <itunes:title>WITCHER LOGIC (Логика Ведьмака)</itunes:title>
+    <link>https://www.youtube.com/playlist?list=PLGzpouuZNBOGQwIUnh9EUKmfDm_7K_MVg</link>
+    <language>en-us</language>
+    <itunes:author>Странное местечко</itunes:author>
+    <description>Скетч-шоу &apos;Логика Ведьмака&apos; (Witcher Logic) от Viva La Dirt League в профессиональной русской озвучке канала &apos;Странное местечко&apos;. Геральт, Лютик и Йеннифэр сталкиваются с абсурдными игровыми условностями, багами и странностями мира The Witcher 3: Wild Hunt. Вас ждут пародии на гвинт, перегруз инвентаря, странное поведение NPC и многое другое.</description>
+    <itunes:summary>Скетч-шоу &apos;Логика Ведьмака&apos; (Witcher Logic) от Viva La Dirt League в профессиональной русской озвучке канала &apos;Странное местечко&apos;. Геральт, Лютик и Йеннифэр сталкиваются с абсурдными игровыми условностями, багами и странностями мира The Witcher 3: Wild Hunt. Вас ждут пародии на гвинт, перегруз инвентаря, странное поведение NPC и многое другое.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Странное местечко</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>ЛОГИКА ВЕДЬМАКА - Тизер сериала на Русском</title>
+      <itunes:title>ЛОГИКА ВЕДЬМАКА - Тизер сериала на Русском</itunes:title>
+      <description><![CDATA[Тизер сериала 'Логика Ведьмака' (Witcher Logic) от Viva La Dirt League в озвучке 'Странное местечко'.]]></description>
+      <content:encoded><![CDATA[Тизер сериала 'Логика Ведьмака' (Witcher Logic) от Viva La Dirt League в озвучке 'Странное местечко'.]]></content:encoded>
+      <pubDate>2022-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">JU_fXtqktZY</guid>
+      <enclosure url="https://www.youtube.com/watch?v=JU_fXtqktZY" length="0" type="video/mp4" />
+      <itunes:duration>PT50S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/JU_fXtqktZY/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ПЕРЕДОЗ ЗЕЛЬЯМИ В ВЕДЬМАКЕ - Witcher Logic на Русском</title>
+      <itunes:title>ПЕРЕДОЗ ЗЕЛЬЯМИ В ВЕДЬМАКЕ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Геральт готовится к битве, выпивая все свои эликсиры, но побочные эффекты оказываются неожиданными.]]></description>
+      <content:encoded><![CDATA[Геральт готовится к битве, выпивая все свои эликсиры, но побочные эффекты оказываются неожиданными.]]></content:encoded>
+      <pubDate>2022-04-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">155tqpce19I</guid>
+      <enclosure url="https://www.youtube.com/watch?v=155tqpce19I" length="0" type="video/mp4" />
+      <itunes:duration>PT2M34S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/155tqpce19I/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ФИЗИЧЕСКАЯ ФОРМА ВЕДЬМАКА</title>
+      <itunes:title>ФИЗИЧЕСКАЯ ФОРМА ВЕДЬМАКА</itunes:title>
+      <description><![CDATA[Как Геральт поддерживает свою физическую форму и что об этом думают окружающие.]]></description>
+      <content:encoded><![CDATA[Как Геральт поддерживает свою физическую форму и что об этом думают окружающие.]]></content:encoded>
+      <pubDate>2022-05-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">S_zzRJxi4tc</guid>
+      <enclosure url="https://www.youtube.com/watch?v=S_zzRJxi4tc" length="0" type="video/mp4" />
+      <itunes:duration>PT4M21S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/S_zzRJxi4tc/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Когда ВЕДЬМАК ПОСТОЯННО ОТВЛЕКАЕТСЯ</title>
+      <itunes:title>Когда ВЕДЬМАК ПОСТОЯННО ОТВЛЕКАЕТСЯ</itunes:title>
+      <description><![CDATA[Геральт пытается выполнить задание, но постоянно отвлекается на побочные квесты и активности.]]></description>
+      <content:encoded><![CDATA[Геральт пытается выполнить задание, но постоянно отвлекается на побочные квесты и активности.]]></content:encoded>
+      <pubDate>2022-06-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">CRqg1r3-CWs</guid>
+      <enclosure url="https://www.youtube.com/watch?v=CRqg1r3-CWs" length="0" type="video/mp4" />
+      <itunes:duration>PT3M20S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/CRqg1r3-CWs/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ЖАДНЫЙ ВЕДЬМАК ПОЛУЧАЕТ НАГРАДУ - Witcher Logic на Русском</title>
+      <itunes:title>ЖАДНЫЙ ВЕДЬМАК ПОЛУЧАЕТ НАГРАДУ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Ведьмак обсуждает награду за выполненный заказ, проявляя свою знаменитую 'бескорыстность'.]]></description>
+      <content:encoded><![CDATA[Ведьмак обсуждает награду за выполненный заказ, проявляя свою знаменитую 'бескорыстность'.]]></content:encoded>
+      <pubDate>2022-05-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">TOjYISfDIq8</guid>
+      <enclosure url="https://www.youtube.com/watch?v=TOjYISfDIq8" length="0" type="video/mp4" />
+      <itunes:duration>PT2M24S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/TOjYISfDIq8/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>БЕСПОЛЕЗНОЕ ВЕДЬМАЧЬЕ ЧУТЬЁ - Witcher Logic на Русском</title>
+      <itunes:title>БЕСПОЛЕЗНОЕ ВЕДЬМАЧЬЕ ЧУТЬЁ - Witcher Logic на Русском</itunes:title>
+      <description><![CDATA[Геральт использует своё ведьмачье чутьё для расследования, но результаты оказываются сомнительными.]]></description>
+      <content:encoded><![CDATA[Геральт использует своё ведьмачье чутьё для расследования, но результаты оказываются сомнительными.]]></content:encoded>
+      <pubDate>2022-04-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ZMtr1bGCEXY</guid>
+      <enclosure url="https://www.youtube.com/watch?v=ZMtr1bGCEXY" length="0" type="video/mp4" />
+      <itunes:duration>PT4M43S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/ZMtr1bGCEXY/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>РЕКАСТ ВЕДЬМАКА</title>
+      <itunes:title>РЕКАСТ ВЕДЬМАКА</itunes:title>
+      <description><![CDATA[Сатира на тему замены актера, играющего Геральта, и реакции персонажей на это событие.]]></description>
+      <content:encoded><![CDATA[Сатира на тему замены актера, играющего Геральта, и реакции персонажей на это событие.]]></content:encoded>
+      <pubDate>2022-07-17T00:00:00Z</pubDate>
+      <guid isPermaLink="false">g5N-i5rb9lI</guid>
+      <enclosure url="https://www.youtube.com/watch?v=g5N-i5rb9lI" length="0" type="video/mp4" />
+      <itunes:duration>PT4M17S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/g5N-i5rb9lI/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>НЕПОДХОДЯЩЕЕ ВРЕМЯ ДЛЯ ГВИНТА</title>
+      <itunes:title>НЕПОДХОДЯЩЕЕ ВРЕМЯ ДЛЯ ГВИНТА</itunes:title>
+      <description><![CDATA[Геральт предлагает сыграть в Гвинт в самый неподходящий момент, игнорируя трагичность ситуации.]]></description>
+      <content:encoded><![CDATA[Геральт предлагает сыграть в Гвинт в самый неподходящий момент, игнорируя трагичность ситуации.]]></content:encoded>
+      <pubDate>2022-05-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">R0EIoynTEcc</guid>
+      <enclosure url="https://www.youtube.com/watch?v=R0EIoynTEcc" length="0" type="video/mp4" />
+      <itunes:duration>PT3M22S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/R0EIoynTEcc/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>ПЕРЕГРУЗ КВЕСТОВ В ВЕДЬМАКЕ</title>
+      <itunes:title>ПЕРЕГРУЗ КВЕСТОВ В ВЕДЬМАКЕ</itunes:title>
+      <description><![CDATA[Геральт берет на себя слишком много заданий одновременно и пытается разобраться в журнале квестов.]]></description>
+      <content:encoded><![CDATA[Геральт берет на себя слишком много заданий одновременно и пытается разобраться в журнале квестов.]]></content:encoded>
+      <pubDate>2022-04-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0u6H9eVfXEo</guid>
+      <enclosure url="https://www.youtube.com/watch?v=0u6H9eVfXEo" length="0" type="video/mp4" />
+      <itunes:duration>PT2M18S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/0u6H9eVfXEo/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>КОГДА ВСТРЕЧА ВАМПИРОВ ИДЕТ НЕ ПО ПЛАНУ</title>
+      <itunes:title>КОГДА ВСТРЕЧА ВАМПИРОВ ИДЕТ НЕ ПО ПЛАНУ</itunes:title>
+      <description><![CDATA[Встреча с высшим вампиром идет не совсем так, как ожидал Геральт.]]></description>
+      <content:encoded><![CDATA[Встреча с высшим вампиром идет не совсем так, как ожидал Геральт.]]></content:encoded>
+      <pubDate>2022-06-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">WD7eZ4IJsNg</guid>
+      <enclosure url="https://www.youtube.com/watch?v=WD7eZ4IJsNg" length="0" type="video/mp4" />
+      <itunes:duration>PT4M52S</itunes:duration>
+      <itunes:image href="https://i.ytimg.com/vi/WD7eZ4IJsNg/maxresdefault.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
